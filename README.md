@@ -1,6 +1,7 @@
 # 🛒 Amazon Sales Dashboard | Power BI Project
 
-![Amazon Sales Dashboard Banner](wide_promotional_banner_hero_image_for_a_power_b.png)
+<img width="1239" height="694" alt="image" src="https://github.com/user-attachments/assets/77132085-42a8-4824-a040-40a83fa22ca5" />
+
 
 ## 📌 Project Overview
 
