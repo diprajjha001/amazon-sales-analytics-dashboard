@@ -248,12 +248,6 @@ If you found this project helpful:
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 # 📧 Contact
 
 **Dipraj Jha**
